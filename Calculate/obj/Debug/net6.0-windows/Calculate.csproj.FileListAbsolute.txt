@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\bin\Debug\net6.0-windows\Calculate.exe
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\bin\Debug\net6.0-windows\Calculate.deps.json
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\bin\Debug\net6.0-windows\Calculate.runtimeconfig.json
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\bin\Debug\net6.0-windows\Calculate.dll
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\bin\Debug\net6.0-windows\Calculate.pdb
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\obj\Debug\net6.0-windows\Calculate.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\obj\Debug\net6.0-windows\Calculate.Form1.resources
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\obj\Debug\net6.0-windows\Calculate.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\obj\Debug\net6.0-windows\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\obj\Debug\net6.0-windows\Calculate.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\obj\Debug\net6.0-windows\Calculate.AssemblyInfo.cs
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\obj\Debug\net6.0-windows\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\obj\Debug\net6.0-windows\Calculate.dll
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\obj\Debug\net6.0-windows\refint\Calculate.dll
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\obj\Debug\net6.0-windows\Calculate.pdb
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\obj\Debug\net6.0-windows\Calculate.genruntimeconfig.cache
+C:\Users\PC\Desktop\Real Editor\Finally\Calculate\Calculate\obj\Debug\net6.0-windows\ref\Calculate.dll
